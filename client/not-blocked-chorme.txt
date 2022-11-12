@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/53258297/access-to-xmlhttprequest-has-been-blocked-by-cors-policy#:~:text=chrome.exe%20%2D%2Duser%2Ddata%2Ddir%3D%22C%3A//Chrome%20dev%20session%22%20%2D%2Ddisable%2Dweb%2Dsecurity
+
+
+
+    in file package.json
+    "proxy": "http://localhost:8800/api"
+
+Tìm hiểu về chỗ Link components trong file SearchItem.jsx, tại sao nó lại nối được như thế
+
+Cái chỗ file PropertyList, tại sao không dùng được proxy ở đoạn đấy 
+
+Tìm hiểu về useLocation, Link của react
